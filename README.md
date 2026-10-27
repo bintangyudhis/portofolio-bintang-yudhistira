@@ -56,6 +56,10 @@ Struktur utama proyek:
 - `src/App.jsx` mengatur mode tampilan dan routing.
 - `vercel.json` mengatur rewrite agar semua rute diarahkan ke aplikasi utama saat di-deploy sebagai single page application.
 
+## Tangkapan Layar
+
+![Tampilan beranda portofolio versi lama.](docs/screenshot.png)
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE) untuk teks lengkapnya.
